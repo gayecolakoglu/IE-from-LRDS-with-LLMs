@@ -1,0 +1,121 @@
+experiment_id,model_name,sample_num,chunk_size,prompt_type,example_num,level_type,file_name,token_counts
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20180430_Public Strategies Washington, Inc._Amendment_Amendment.pdf",3130
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19820401_Bermuda Tourism Authority_Amendment_Amendment.pdf,1616
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20020611_CMGRP, Inc._Amendment_Amendment.pdf",1843
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20021204_JWI, LLC_Amendment_Amendment.pdf",2915
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20130815_Squire Patton Boggs, LLP_Amendment_Amendment.pdf",3107
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20180123_Fleishman-Hillard, Inc._Amendment_Amendment.pdf",3311
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20120604_Squire Patton Boggs, LLP_Amendment_Amendment.pdf",3109
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19790101_Representative of the Turkish Republic of Northern Cyprus_Amendment_Amendment.pdf,1792
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20170224_Alston _ Bird, LLP_Amendment_Amendment.pdf",3081
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19760201_Italian Government Tourist Board (ENIT), Los Angeles_Amendment_Amendment.pdf",3199
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20131127_Independent Diplomat, Inc._Amendment_Amendment.pdf",3108
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19901201_CMGRP, Inc._Amendment_Amendment.pdf",1814
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19950929_Hogan Lovells US LLP_Amendment_Amendment.pdf,2896
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20010820_Arnold _ Porter Kaye Scholer, LLP_Amendment_Amendment.pdf",2953
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,20140813_Fratelli Group_Amendment_Amendment.pdf,3165
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19920201_Sidley Austin, LLP_Amendment_Amendment.pdf",1820
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20150203_Burson-Marsteller, LLC (Miami Office)_Amendment_Amendment.pdf",3130
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,20110103_Representative of the Turkish Republic of Northern Cyprus_Amendment_Amendment.pdf,3021
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20150105_Squire Patton Boggs, LLP_Amendment_Amendment.pdf",3134
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20130131_Sidley Austin, LLP_Amendment_Amendment.pdf",3107
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19770101_Representative of the Turkish Republic of Northern Cyprus_Amendment_Amendment.pdf,2961
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19961018_DLA Piper US LLP_Amendment_Amendment.pdf,3129
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20170901_Bryan Cave, LLP_Amendment_Amendment.pdf",3138
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19710401_Netherlands Board of Tourism and Conventions (NBTC)_Amendment_Amendment.pdf,1513
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20120424_Pillsbury Winthrop Shaw Pittman, LLP_Amendment_Amendment.pdf",3133
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20180124_Nickles Group, LLC_Amendment_Amendment.pdf",3079
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20160406_Rokk Solutions, LLC_Amendment_Amendment.pdf",3394
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19850801_St. Lucia Tourist Board_Amendment_Amendment.pdf,1537
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20090930_Garvey, Schubert _ Barer_Amendment_Amendment.pdf",3005
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20170815_Pillsbury Winthrop Shaw Pittman, LLP_Amendment_Amendment.pdf",3080
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20070613_Pillsbury Winthrop Shaw Pittman, LLP_Amendment_Amendment.pdf",1851
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19830401_Bermuda Tourism Authority_Amendment_Amendment.pdf,1547
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20180105_Hill and Knowlton Strategies, LLC_Amendment_Amendment.pdf",3125
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19920601_JETRO, San Francisco_Amendment_Amendment.pdf",1842
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,20180613_Ballard Partners_Amendment_Amendment.pdf,3069
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20030714_Arnold _ Porter Kaye Scholer, LLP_Amendment_Amendment.pdf",2961
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20150530_Parvin, C. Landon_Amendment_Amendment.pdf",3019
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,20110527_Monaco Government Tourist Office_Amendment_Amendment.pdf,3066
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20081001_Garvey, Schubert _ Barer_Amendment_Amendment.pdf",3002
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20171116_Wiley Rein, LLP_Amendment_Amendment.pdf",3524
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19930901_Scottish Enterprise_Dissemination Report_Dissemination Report.pdf,1812
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19930201_Akin, Gump, Strauss, Hauer _ Feld, LLP_Dissemination Report_Dissemination Report.pdf",1506
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19930701_JETRO, Atlanta_Dissemination Report_Dissemination Report.pdf",1837
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19920401_Quebec Government Office_Dissemination Report_Dissemination Report.pdf,1821
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19931117_KOTRA_Dissemination Report_Dissemination Report.pdf,2845
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19911201_Scottish Enterprise_Dissemination Report_Dissemination Report.pdf,1546
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19930601_International Registries, Inc._Dissemination Report_Dissemination Report.pdf",1792
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19920701_Far East Trade Services, Inc._Dissemination Report_Dissemination Report.pdf",1872
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19930901_Hill and Knowlton Strategies, LLC_Dissemination Report_Dissemination Report.pdf",1823
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19910501_JETRO, Atlanta_Dissemination Report_Dissemination Report.pdf",1815
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19960116_JETRO, Chicago_Dissemination Report_Dissemination Report.pdf",1789
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19910201_Akin, Gump, Strauss, Hauer _ Feld, LLP_Dissemination Report_Dissemination Report.pdf",1842
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19930801_JETRO, Los Angeles_Dissemination Report_Dissemination Report.pdf",1796
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19950110_JETRO, New York_Dissemination Report_Dissemination Report.pdf",1542
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19930901_JETRO, Los Angeles_Dissemination Report_Dissemination Report.pdf",1807
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19920501_Hogan Lovells US LLP_Dissemination Report_Dissemination Report.pdf,1833
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19941221_JETRO, Chicago_Dissemination Report_Dissemination Report.pdf",1815
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19920701_JETRO, Los Angeles_Dissemination Report_Dissemination Report.pdf",1820
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19910801_Representative of the Turkish Republic of Northern Cyprus_Dissemination Report_Dissemination Report.pdf,1839
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19920701_International Registries, Inc._Dissemination Report_Dissemination Report.pdf",1757
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19920901_Daniel J. Edelman, Inc._Dissemination Report_Dissemination Report.pdf",1498
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19931101_Hogan Lovells US LLP_Dissemination Report_Dissemination Report.pdf,1505
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19910201_World Zionist Organization - American Section, Inc._Dissemination Report_Dissemination Report.pdf",1563
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19930701_JETRO, New York_Dissemination Report_Dissemination Report.pdf",2827
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19910401_World Zionist Organization - American Section, Inc._Dissemination Report_Dissemination Report.pdf",1578
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19930201_Kobe Trade Information Office_Dissemination Report_Dissemination Report.pdf,1810
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19940914_JETRO, Los Angeles_Dissemination Report_Dissemination Report.pdf",3121
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19930101_JETRO, Los Angeles_Dissemination Report_Dissemination Report.pdf",1825
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19911201_JETRO, Houston_Dissemination Report_Dissemination Report.pdf",1789
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19950522_JETRO, Los Angeles_Dissemination Report_Dissemination Report.pdf",1822
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19920701_JETRO, New York_Dissemination Report_Dissemination Report.pdf",1814
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19930101_Representative of the Turkish Republic of Northern Cyprus_Dissemination Report_Dissemination Report.pdf,1796
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19920701_Daniel J. Edelman, Inc._Dissemination Report_Dissemination Report.pdf",1533
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19921201_Far East Trade Services, Inc._Dissemination Report_Dissemination Report.pdf",1857
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19920701_Hill and Knowlton Strategies, LLC_Dissemination Report_Dissemination Report.pdf",1796
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19931101_JETRO, Los Angeles_Dissemination Report_Dissemination Report.pdf",1816
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19950619_JETRO, Houston_Dissemination Report_Dissemination Report.pdf",1799
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19920301_JETRO, Los Angeles_Dissemination Report_Dissemination Report.pdf",1805
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,19920901_Representative of the Turkish Republic of Northern Cyprus_Dissemination Report_Dissemination Report.pdf,1768
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"19930101_JETRO, Chicago_Dissemination Report_Dissemination Report.pdf",1834
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20170130_Burson-Marsteller, LLC (Washington, DC)_Pruitt, David_Short-Form.pdf",3394
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20140507_Ketchum Inc. NY_Amorosi, Alexandra Scott_Short-Form.pdf",3374
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20110210_Korea National Tourism Organization, New Jersey_Kim, Jeongah_Short-Form.pdf",3314
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20170130_Burson-Marsteller, LLC (Washington, DC)_Thompson, Randi_Short-Form.pdf",3441
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20130513_Commonwealth of Dominica Maritime Registry, Inc._Ottaviano, Pasquale Diego_Short-Form.pdf",3410
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20110628_KBS America, Inc._Noh, Ji Young_Short-Form.pdf",3431
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20171103_Dentons US LLP_Goldberg, Gary_Short-Form.pdf",3411
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20140418_Sorini, Samet _ Associates, LLC_Kingery, John_Short-Form.pdf",3391
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20090624_Akin, Gump, Strauss, Hauer _ Feld, LLP_Davis, Smith W._Short-Form.pdf",3425
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20101208_Ketchum Inc. NY_Austria, Kristine Partolan_Short-Form.pdf",3276
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20140812_Greenberg Traurig, LLP_Wynn, Albert R._Short-Form.pdf",3506
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20161031_MSLGROUP Americas, Inc._Everett, J. Ballard_Short-Form.pdf",3388
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20090408_Arab Information Center_Sherif, Walid Mahmoud Sayed Ahmed_Short-Form.pdf",3163
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20110912_BLJ Worldwide LTD_Smrikarov, Marc Philip George_Short-Form.pdf",3607
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20110913_MSLGROUP Americas, Inc._Dealey, Sam_Short-Form.pdf",3338
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20090522_Invest Northern Ireland_Murray, Aengus_Short-Form.pdf",3353
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20100909_Gephardt Group Government Affairs, LLC_Messmer, Michael_Short-Form.pdf",3308
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20160506_MSLGROUP Americas, Inc._Kurapovna, Marcia Christoff_Short-Form.pdf",3353
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20120917_Singapore Economic Development Board_Choo, Xing Jie_Short-Form.pdf",3288
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20131009_VisitBritain_Walsh, Carl_Short-Form.pdf",3353
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20160601_Manatos _ Manatos_Manatos, Emanuel A. _Mike__Short-Form.pdf",3457
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20170424_Singapore Tourism Board_Yang, Yawen_Short-Form.pdf",3416
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20170112_Podesta Group, Inc._Thompson, Dana_Short-Form.pdf",3469
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20100820_South African Tourism_Jacobberger, Dean_Short-Form.pdf",3544
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20090623_Fleishman-Hillard, Inc._Dinagan, John_Short-Form.pdf",3321
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20090414_LeClairRyan, A Professional Corporation_Williams, Krystal J._Short-Form.pdf",3356
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20170313_Alston _ Bird, LLP_Jones, Robert C._Short-Form.pdf",3435
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20110929_DLA Piper US LLP_Schwanke, Beth_Short-Form.pdf",3699
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20110722_Daniel J. Edelman, Inc._Norfolk, Jeffrey_Short-Form.pdf",3371
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20140227_Nelson Mullins Riley _ Scarborough, LLP_Clarke, Britton_Short-Form.pdf",3366
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20140414_VisitBritain_Medway, Kellen_Short-Form.pdf",3381
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20160622_Raben Group, LLC_Raben, Robert_Short-Form.pdf",3393
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20090424_Raben Group, LLC_Goulart, Kimberly_Short-Form.pdf",3290
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20110805_Squire Patton Boggs, LLP_Nardotti, Michael J. Jr._Short-Form.pdf",3419
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20080918_Squire Patton Boggs, LLP_Varma, Anurag_Short-Form.pdf",3292
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20100111_O_Brien Gentry _ Scott, LLC_Gentry, James_Short-Form.pdf",4860
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20160731_Burson-Marsteller, LLC (Washington, DC)_Jarnagan, Stephanie_Short-Form.pdf",3384
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20170228_BGR Government Affairs, LLC_Vajdich, Daniel_Short-Form.pdf",3423
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20090409_Daniel J. Edelman, Inc._Segall, Jules Peter_Short-Form.pdf",3240
+105,llama3-70b-8192,40,633,chain_of_thought,3,UTL,"20121129_Commonwealth of Dominica Maritime Registry, Inc._Jamal, Shahid_Short-Form.pdf",3366
