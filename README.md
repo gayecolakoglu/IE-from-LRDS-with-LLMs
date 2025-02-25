@@ -18,7 +18,7 @@ It benchmarks the outcomes of different design choices against *LayoutLMv3* and 
 ### 1️⃣ Install the Project
 Tested with *Python 3.11.6* and *Conda* on a *Linux server (Ubuntu 5.15.0-124-generic)*.
 
-sh
+```bash
 # Clone the repository
 git clone git@github.com:gayecolakoglu/LayIE-LLM.git
 cd LayIE-LLM
@@ -30,6 +30,7 @@ conda activate LayIE-LLM
 # Install dependencies
 pip install -r requirements.txt
 pip install -e .
+```
 
 
 ### 2️⃣ Dataset 📂
@@ -38,28 +39,27 @@ pip install -e .
 - Full dataset available at: [VRDU Dataset](https://github.com/google-research-datasets/vrdu).
 
 ### 3️⃣ API Keys 🔑
-Create a keys.env file in the same directory as config.py with the following format:
+Create a *keys.env* file in the same directory as *config.py* with the following format:
 
-sh
+```
 api_key_llama="YOUR_API_KEY"
 api_key_gpt="YOUR_API_KEY"
-
+```
 
 ---
 
 ## ▶️ How to Run
 
 ### 📌 Input Types
-- *main.ipynb* → Runs all three models (*LLaMA 3, GPT-3.5, GPT-4o) with **OCR input*.
+- *main.ipynb* → Runs all three models (LLaMA 3, GPT-3.5, GPT-4o) with *OCR input*.
 - *main_md.ipynb* → Runs the same models with *Markdown input*.
-- *main-gpt4-Image.ipynb* → Runs *GPT-4o Vision* with the dataset.
+- *main-gpt4-Image.ipynb* → Runs GPT-4o Vision with *Image input*.
 
 ### 📌 Selecting LLM
-Modify the *"Arrange working dirs"* section in the main scripts to change the model. Example:
-
-python
+Modify the *Arrange working dirs* section in the main scripts to change the model as shown in the attached example
+```
 MODEL_gpt_3  # Other options: MODEL_llama, MODEL_gpt_4
-
+```
 ![Model Selection](https://github.com/user-attachments/assets/97e13c9c-1418-4e0d-bad3-15c34abab1c7)
 
 ### 📌 Other Notebooks
