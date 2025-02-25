@@ -20,12 +20,12 @@ Tested with *Python 3.11.6* and *Conda* on a *Linux server (Ubuntu 5.15.0-124-ge
 
 sh
 # Clone the repository
-git clone git@github.com:gayecolakoglu/IE-from-LRDS-with-LLMs.git
-cd IE-from-LRDS-with-LLMs
+git clone git@github.com:gayecolakoglu/LayIE-LLM.git
+cd LayIE-LLM
 
 # Create and activate a Conda environment
-conda create -n IE python=3.11
-conda activate IE
+conda create -n LayIE-LLM python=3.11
+conda activate LayIE-LLM
 
 # Install dependencies
 pip install -r requirements.txt
